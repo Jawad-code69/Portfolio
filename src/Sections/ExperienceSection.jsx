@@ -1,6 +1,6 @@
 import TitleHeader from '../Components/TitleHeader'
 import { expCards } from '../Constants'
-import GlowCard from "../Components/GlowCard";  // if file is GlowCard.jsx
+import Glowcard from '../Components/Glowcard'
 
 import gsap from 'gsap'
 import { useGSAP } from '@gsap/react'
