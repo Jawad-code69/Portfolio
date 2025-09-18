@@ -48,7 +48,7 @@ const ShowcaseSection = () => {
                     {/* LEFT */}
                     <div className="first-project-wrapper" ref={project1Ref}>
                         <div className="image-wrapper">
-                            <img src="/images/MarvelP1.png" alt="Ryde" />
+                            <img src="/images/project1.png" alt="Ryde" />
                         </div>
                         <div className="text-content">
                             <h2>
